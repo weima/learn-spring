@@ -1,0 +1,6 @@
+/home/weima/study/learn-spring/m1-real-world-project/src/main/java/com/baeldung/ls/service/impl/ProjectServiceImpl.java
+/home/weima/study/learn-spring/m1-real-world-project/src/main/java/com/baeldung/ls/persistence/repository/impl/ProjectRepositoryImpl.java
+/home/weima/study/learn-spring/m1-real-world-project/src/main/java/com/baeldung/ls/persistence/model/Project.java
+/home/weima/study/learn-spring/m1-real-world-project/src/main/java/com/baeldung/ls/LsApp.java
+/home/weima/study/learn-spring/m1-real-world-project/src/main/java/com/baeldung/ls/service/IProjectService.java
+/home/weima/study/learn-spring/m1-real-world-project/src/main/java/com/baeldung/ls/persistence/repository/IProjectRepository.java
